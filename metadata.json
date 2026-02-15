@@ -1,0 +1,5 @@
+{
+  "name": "My Library Dashboard",
+  "description": "A sophisticated personal library management dashboard featuring reading progress tracking, streaks, and AI-powered book recommendations.",
+  "requestFramePermissions": []
+}
